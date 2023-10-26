@@ -1,0 +1,101 @@
+PatientName,SSN,PatientID,Phone,Gender,BirthDate,ZipCode,Health Condition,Weight,Height
+Pablo de Cobo,412-92-6881,1000,+34 738 644 211,Male,20011009,08003,Bird flu,80,184
+Fabio Menendez Velasco,265-27-3243,1001,+34742032426,Male,20010110,08003,Bird flu,79,179
+Flavia Cabañas Cabanillas,554-97-8002,1002,+34712747631,Female,20010101,08014,Bird flu,67,172
+Eliana Vendrell-Vilalta,990-49-6929,1003,+34 712 466 137,Female,20001009,08002,Common cold and flu,93,184
+César Mas Silva,833-83-9451,1004,+34716 22 73 14,Male,20000101,08002,Common cold and flu,66,171
+Espiridión Moraleda Lladó,129-19-7109,1005,+34744 597 961,Male,20001010,08001,Common cold and flu,69,164
+Melchor de Rius,554-15-8910,1006,+34986735331,Male,20010110,08013,COVID-19 (Novel coronavirus),70,170
+Amarilis Maestre Beltrán,644-88-0922,1007,+34 726 04 19 74,Female,20011009,08013,COVID-19 (Novel coronavirus),63,168
+Duilio Feijoo Girona,617-61-0453,1008,+34 721 978 594,Male,20001009,08012,Asthma,60,179
+Iker Rodrigo,052-30-4751,1009,+34916 457 997,Male,20011001,08001,Common cold and flu,71,177
+Eutropio Samu Peralta Bermudez,748-56-0431,1010,+34846 31 83 86,Male,20010109,08014,Bird flu,79,174
+Darío Aitor Vilanova Bou,494-34-7898,1011,+34 745 848 654,Male,20000111,08004,Common cold and flu,88,169
+Valentina Pérez Bernat,976-74-7425,1012,+34 943 71 31 59,Female,20001011,08012,Bird flu,89,159
+Vito Morales,722-50-6900,1013,+34731965269,Male,20011010,08013,Common cold and flu,60,184
+Jeremías Luz Martorell,876-54-9278,1014,+34705805663,Male,20011009,08002,COVID-19 (Novel coronavirus),94,175
+Isa Palacio Montalbán,868-21-6223,1015,+34725 885 831,Female,20010109,08011,Asthma,86,175
+Eleuterio Vara Guillen,040-97-2476,1016,+34969 942 293,Male,20001001,08012,COVID-19 (Novel coronavirus),67,177
+Sebastián Ferrándiz Carbó,905-35-7451,1017,+34 735 06 32 34,Male,20010109,08011,COVID-19 (Novel coronavirus),81,194
+Luis Ángel Pavón,697-65-1383,1018,+34711 477 558,Male,20010109,08013,Bird flu,94,185
+Ruperto Perelló,857-70-9030,1019,+34635 79 90 41,Female,20001010,08013,COVID-19 (Novel coronavirus),92,175
+María Luisa Viana Mosquera,750-15-3529,1020,+34 701 57 29 17,Female,20001010,08013,Common cold and flu,68,180
+Martirio Alcántara Rodriguez,206-21-0343,1021,+34747676866,Male,20010111,08012,Asthma,78,191
+Gastón Leocadio Manjón Ordóñez,664-47-4433,1022,+34742 242 338,Female,20001009,08011,Bird flu,79,186
+María José Jover Losa,730-89-0592,1023,+34731 52 14 99,Female,20001011,08011,COVID-19 (Novel coronavirus),68,152
+Flavio Cervantes-Gárate,008-63-0332,1024,+34723 359 656,Male,20011001,08013,Common cold and flu,64,182
+Aníbal Antúnez Alfonso,602-64-8683,1025,+34 627 031 603,Male,20001010,08001,Asthma,84,177
+Joel Solera Jove,959-10-5822,1026,+34702 111 321,Male,20001009,08001,Common cold and flu,66,178
+Amarilis Núñez,891-57-5723,1027,+34732358596,Female,20010101,08014,Bird flu,91,175
+Chuy Ibarra Folch,696-33-9466,1028,+34 724 730 183,Female,20010109,08013,COVID-19 (Novel coronavirus),76,170
+Juan Francisco Riba Espada,909-21-4549,1029,+34 724 06 95 38,Male,20000111,08004,Asthma,60,169
+Gerónimo Acosta,108-17-6082,1030,+34719 13 99 99,Female,20000109,08011,Asthma,88,168
+Ramón Peláez Enríquez,977-59-3588,1031,+34 722 611 551,Male,20010109,08001,COVID-19 (Novel coronavirus),60,178
+Flavio de Noriega,508-25-4920,1032,+34727 654 146,Male,20001010,08012,Common cold and flu,85,156
+Tito Ramón Caparrós Gracia,103-54-0131,1033,+34718 11 22 05,Male,20011001,08002,COVID-19 (Novel coronavirus),75,189
+Lorenzo Abad Cueto,171-73-5077,1034,+34 952026822,Male,20011010,08003,Common cold and flu,80,176
+Hilario Soriano Carbajo,713-37-2157,1035,+34735 542 616,Male,20001001,08012,Bird flu,57,160
+Sol Teresa Bayón Iborra,644-94-5470,1036,+34 841029418,Female,20011009,08014,COVID-19 (Novel coronavirus),72,169
+Marcio Palacios Fuertes,842-30-7146,1037,+34997 92 18 05,Male,20010101,08003,Common cold and flu,90,163
+Martirio García Portillo,756-77-3789,1038,+34712 357 994,Male,20011010,08004,Common cold and flu,55,164
+Eutropio Vidal Paredes,205-87-4897,1039,+34 816 37 87 79,Male,20011011,08013,Bird flu,82,177
+Marco González Goñi,714-55-8036,1040,+34714260153,Male,20000110,08014,Bird flu,68,170
+Paloma Valencia Alberdi,610-18-3016,1041,+34709122257,Female,20000101,08004,COVID-19 (Novel coronavirus),78,184
+Asdrubal Félix Reina Bustos,804-53-8723,1042,+34740 989 210,Male,20011011,08002,Common cold and flu,89,176
+Roldán Requena-Olmo,816-57-7506,1043,+34686674582,Male,20000101,08002,Common cold and flu,60,173
+Iván Pedraza Cantón,905-30-4642,1044,+34 743 737 652,Male,20010110,08011,Asthma,84,174
+Florentino Pont Villalobos,946-14-5894,1045,+34730 82 86 50,Male,20001009,08013,Common cold and flu,88,186
+Asdrubal Alemán Aguilar,034-60-5350,1046,+34621 19 36 63,Male,20011001,08003,Asthma,67,178
+Noé del Guillen,029-46-9655,1047,+34 749865965,Male,20010110,08001,Asthma,93,191
+Anacleto Verdejo-Cabanillas,492-44-5113,1048,+34 891112743,Male,20001009,08004,Common cold and flu,84,175
+Amparo Gómez Bárcena,413-71-7282,1049,+34 729 76 56 64,Female,20011009,08014,Asthma,58,162
+Marciano Robles Beltran,736-59-1802,1050,+34895177913,Male,20000111,08004,Bird flu,77,154
+Tecla Puga Castillo,160-63-3166,1051,+34 745 632 729,Female,20010101,08014,Bird flu,63,181
+Maricela Salom Barbero,675-65-9816,1052,+34 745 239 428,Female,20000110,08011,Common cold and flu,68,175
+Ainoa Báez Nuñez,519-44-2272,1053,+34742 813 417,Female,20010111,08004,Bird flu,65,161
+Santos Méndez Oller,707-66-9300,1054,+34734 22 25 23,Female,20001001,08002,Asthma,83,188
+Demetrio Quevedo Cortes,651-31-6295,1055,+34 743887122,Male,20000110,08003,Bird flu,93,168
+Diana de Castells,789-50-1744,1056,+34707736737,Female,20001009,08001,COVID-19 (Novel coronavirus),66,173
+Nazaret Frías,294-24-1587,1057,+34 739 394 862,Female,20001009,08012,Bird flu,87,170
+Eva María de Gallart,371-39-5040,1058,+34 714 759 326,Female,20010110,08012,Asthma,66,170
+Teresita Ródenas Barberá,775-84-0192,1059,+34716 648 160,Female,20010109,08013,Bird flu,57,157
+Gaspar Espejo,678-11-7836,1060,+34 914394466,Male,20001001,08003,Asthma,62,171
+Fortunata Gilabert Garrido,686-68-8015,1061,+34887 850 579,Female,20001011,08014,Asthma,56,175
+Marta del Alcolea,671-42-5632,1062,+34749 281 122,Female,20001011,08013,Asthma,65,182
+Lorenzo Madrid Vélez,745-21-3063,1063,+34727636175,Male,20001009,08014,Asthma,85,159
+Chuy Calzada Cabañas,329-45-4441,1064,+34726 74 06 65,Female,20010111,08003,COVID-19 (Novel coronavirus),81,184
+Jose Francisco Palomares Peñalver,762-20-3784,1065,+34 719934770,Male,20000109,08011,Common cold and flu,60,177
+Imelda Olga Cerro Miralles,735-44-4242,1066,+34821 45 60 82,Female,20010109,08013,Asthma,82,176
+Rosario del Pino,852-87-5041,1067,+34 993891054,Male,20000101,08003,Bird flu,95,168
+Saturnina Barco-Fernández,640-05-2481,1068,+34 917607955,Female,20010109,08011,Common cold and flu,60,179
+Osvaldo Casanovas Tirado,458-14-3193,1069,+34 736184373,Male,20011009,08002,COVID-19 (Novel coronavirus),64,176
+Zaida de Pera,462-13-4733,1070,+34727 71 20 69,Female,20010111,08002,Asthma,74,196
+Ignacio Muñoz-Morales,414-71-9105,1071,+34 717 241 170,Male,20010110,08003,Common cold and flu,94,153
+Bautista Plaza-Torrens,321-13-2380,1072,+34918 15 22 09,Male,20011001,08012,Asthma,55,171
+Chema del Bejarano,607-07-2865,1073,+34694 81 52 81,Female,20001001,08011,Bird flu,79,187
+Marcelo Cruz Cornejo Pozuelo,669-67-9588,1074,+34715890559,Male,20011001,08001,Common cold and flu,76,165
+Humberto Bueno Carreras,060-58-7221,1075,+34 666 64 17 29,Male,20001009,08013,Bird flu,63,191
+Natanael Lloret,341-90-8339,1076,+34 708 02 90 21,Male,20001010,08013,Asthma,88,192
+Elena Montaña Parejo,826-40-5746,1077,+34 673 941 759,Female,20001009,08004,Common cold and flu,80,176
+Dominga Sevilla,999-16-8618,1078,+34732797994,Female,20000101,08002,COVID-19 (Novel coronavirus),67,171
+Susanita Mancebo Arnaiz,139-89-4453,1079,+34 713 72 85 51,Female,20001001,08001,Bird flu,58,150
+Jose Antonio Amor Perales,309-23-8559,1080,+34 703 04 82 82,Male,20000109,08003,Common cold and flu,95,174
+Hermenegildo Gerónimo Villanueva Cornejo,481-02-8907,1081,+34706 87 70 29,Male,20011009,08011,Bird flu,68,165
+Lupe del Priego,865-70-3408,1082,+34718218497,Female,20000109,08003,Asthma,83,182
+Lupita Mercader Falcón,261-19-9827,1083,+34 919670475,Female,20000110,08013,COVID-19 (Novel coronavirus),71,183
+Amor del Gallart,789-46-0921,1084,+34 726 58 06 91,Female,20010110,08003,Bird flu,89,163
+Wálter del Pellicer,216-05-2799,1085,+34806 162 073,Female,20011011,08013,Bird flu,80,181
+Darío Anaya Larrañaga,838-75-0760,1086,+34708 42 99 57,Male,20001009,08002,Common cold and flu,63,181
+Germán Frutos Escribano,310-12-6388,1087,+34863724437,Male,20001010,08004,COVID-19 (Novel coronavirus),77,180
+Renato Llanos Quero,546-06-3757,1088,+34 719 736 969,Male,20001010,08002,COVID-19 (Novel coronavirus),85,167
+Ainoa Garay Fortuny,868-18-6256,1089,+34975398046,Female,20011011,08003,Bird flu,58,181
+Leandro del Ureña,332-76-1706,1090,+34 704 190 407,Male,20010101,08004,Bird flu,63,174
+Íngrid Téllez Ríos,129-79-0868,1091,+34729625867,Female,20001011,08003,Asthma,93,172
+Prudencio Alonso Agustí,415-51-9738,1092,+34729564324,Male,20011009,08004,Bird flu,64,173
+Toni Barranco Cabezas,771-85-1697,1093,+34617 79 97 65,Male,20001011,08013,Asthma,93,174
+Agustina Cervantes,179-86-1767,1094,+34613836781,Female,20010110,08011,Common cold and flu,81,172
+Edu Jara Mendez,710-89-6575,1095,+34606 44 46 92,Female,20000111,08014,Bird flu,62,165
+Juliana Cruz Vargas Rosselló,938-96-5737,1096,+34822 68 89 86,Female,20011009,08001,Asthma,61,151
+Fidel Robledo Hernando,102-30-5721,1097,+34 872 667 558,Male,20001010,08001,Common cold and flu,62,188
+Hilda Mamen Villaverde Castrillo,360-89-8456,1098,+34713200463,Female,20001009,08001,Common cold and flu,64,179
+Olivia Machado Sáenz,295-90-6472,1099,+34 956 936 719,Female,20000101,08011,Common cold and flu,73,167

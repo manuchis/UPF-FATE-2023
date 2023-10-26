@@ -1,0 +1,11 @@
+Name,Age,Gender,State,Religion,HealthCondition
+*,>20,Female,Tamil Nadu,*,Cancer
+*,>20,Female,Kerala,*,Viral infection
+*,>20,Female,Tamil Nadu,*,No illness
+*,>20,Male,Karnataka,*,No illness
+*,>20,Female,Kerala,*,Heart-related
+*,>20,Male,Karnataka,*,No illness
+*,<=20,Male,Kerala,*,Cancer
+*,>20,Male,Karnataka,*,Heart-related
+*,<=20,Male,Kerala,*,Heart-related
+*,<=20,Male,Kerala,*,Viral infection
